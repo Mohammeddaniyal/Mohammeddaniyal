@@ -12,8 +12,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/LeetCode_logo_black.png" width="70" height="30"/>
+
 </p>
 
 <h3>GitHub Status</h3>
