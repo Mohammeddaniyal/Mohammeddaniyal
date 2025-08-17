@@ -6,19 +6,19 @@
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
 I'm a passionate **Computer Science student** at Prashanti Institute of Science & Technology, diving deep into the world of **full-stack development** and **machine learning**. When I'm not coding, you'll find me tutoring fellow students or solving algorithmic challenges!
 
-- ðŸŽ“ **Final year CSE** student with 3+ years of tutoring experience
-- ðŸ’» Building full-stack applications with **Spring Boot**, **React**, and **Node.js**
-- ðŸ§  Exploring **Machine Learning** and **AI-powered tools**
-- ðŸ“ˆ Daily problem solver on **LeetCode** and competitive programming platforms
-- ðŸŒ± Currently mastering **JWT Authentication**, **Docker**, and **System Design**
+- 🎓 **Final year CSE** student with 3+ years of tutoring experience
+- 💻 Building full-stack applications with **Spring Boot**, **React**, and **Node.js**
+- 🧠 Exploring **Machine Learning** and **AI-powered tools**
+- 📈 Daily problem solver on **LeetCode** and competitive programming platforms
+- 🌱 Currently mastering **JWT Authentication**, **Docker**, and **System Design**
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,7 +47,7 @@ I'm a passionate **Computer Science student** at Prashanti Institute of Science 
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammeddaniyal&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" />
@@ -64,29 +64,29 @@ I'm a passionate **Computer Science student** at Prashanti Institute of Science 
 
 ---
 
-## ðŸ† Featured Projects
+## 🏆 Featured Projects
 
-### ðŸŒŸ [AI Code Explainer](https://github.com/Mohammeddaniyal/ai-code-explainer)
+### 🌟 [AI Code Explainer](https://github.com/Mohammeddaniyal/ai-code-explainer)
 > **Spring Boot + React** | AI-powered tool that breaks down code snippets for beginners
-- ðŸ”¹ JWT-based authentication system
-- ðŸ”¹ GPT integration for intelligent code analysis
-- ðŸ”¹ Responsive React frontend with Material-UI
+- 🔹 JWT-based authentication system
+- 🔹 GPT integration for intelligent code analysis
+- 🔹 Responsive React frontend with Material-UI
 
-### ðŸ“š [Digital Library System](https://github.com/Mohammeddaniyal/digital-library)
+### 📚 [Digital Library System](https://github.com/Mohammeddaniyal/digital-library)
 > **Full-Stack Web App** | Complete book management system
-- ðŸ”¹ RESTful API with Spring Boot backend
-- ðŸ”¹ MySQL database with JPA/Hibernate
-- ðŸ”¹ Payment integration with Stripe API
+- 🔹 RESTful API with Spring Boot backend
+- 🔹 MySQL database with JPA/Hibernate
+- 🔹 Payment integration with Stripe API
 
-### ðŸŽ® [Portfolio Website](https://mohammeddaniyal.dev)
+### 🎮 [Portfolio Website](https://mohammeddaniyal.dev)
 > **React + TailwindCSS** | Personal portfolio with interactive elements
-- ðŸ”¹ Responsive design with dark/light mode toggle
-- ðŸ”¹ Contact form with EmailJS integration
-- ðŸ”¹ Deployed on Netlify with CI/CD pipeline
+- 🔹 Responsive design with dark/light mode toggle
+- 🔹 Contact form with EmailJS integration
+- 🔹 Deployed on Netlify with CI/CD pipeline
 
 ---
 
-## ðŸŽ¯ Current Goals
+## 🎯 Current Goals
 
 - [ ] **Algorithm Mastery**: Achieve **top 20% global rank** on LeetCode
 - [ ] **Open Source**: Contribute to **5+ major open source projects**
@@ -96,7 +96,7 @@ I'm a passionate **Computer Science student** at Prashanti Institute of Science 
 
 ---
 
-## ðŸ“ˆ Coding Activity
+## 📈 Coding Activity
 
 <p align="center">
   <img src="https://wakatime.com/share/@Mohammeddaniyal/b8b8ba5d-0be5-4667-88fb-4e8fec30e4d1.svg" width="400" alt="WakaTime Stats" />
@@ -104,7 +104,7 @@ I'm a passionate **Computer Science student** at Prashanti Institute of Science 
 
 ---
 
-## ðŸ¤ Let's Connect!
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammeddaniyalali" target="_blank">
@@ -120,37 +120,5 @@ I'm a passionate **Computer Science student** at Prashanti Institute of Science 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://mohammeddaniyal.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+    <img src="https://img.sh
 
----
-
-## ðŸ’­ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-## ðŸŽµ Currently Vibing To
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3kljay2w5uowmpsnv7dp4qgpi&count=1" alt="Spotify" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammeddaniyal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mohammeddaniyal?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
----
-
-â­ï¸ **From [Mohammed Daniyal Ali](https://github.com/Mohammeddaniyal)** - *Building the future, one commit at a time* â­ï¸
