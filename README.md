@@ -1,59 +1,156 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Mohammed Daniyal Ali!
 
-<p>Welcome to my page! </br> I'm Mohammed Daniyal Ali, a passionate Fullstack Developer from 🇮🇳 <b>India</b>, currently exploring the tech world.</p>
-
-<h3>Technologies I work with</h3>
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3>GitHub Status</h3>
-<p>Check out my latest activity on GitHub:</p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Mohammeddaniyal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="400" /></p>
+---
 
-<h3>About Me</h3>
-<p>I am a third-year Computer Science student at Prashanti Institute of Science & Technology. I'm passionate about learning and solving problems, continuously improving my skills, and creating innovative projects in tech. Along with academics, I have been tutoring students for over 3 years, helping them excel in their studies.</p>
+## ðŸš€ About Me
 
-<h3>My Goals</h3>
-<ul>
-  <li>Build a solid portfolio of tech projects on GitHub.</li>
-  <li>Enhance my problem-solving skills on platforms like LeetCode.</li>
-  <li>Refine my knowledge of AI and machine learning, particularly by building tools like an AI-powered code explainer.</li>
-  <li>Develop web applications and games to hone my full-stack development skills.</li>
-</ul>
+I'm a passionate **Computer Science student** at Prashanti Institute of Science & Technology, diving deep into the world of **full-stack development** and **machine learning**. When I'm not coding, you'll find me tutoring fellow students or solving algorithmic challenges!
 
-<div style="text-align: center; margin-top: 20px;">
-  <h3 style="font-family: 'Arial', sans-serif; color: #333;">Connect with Me</h3>
-  <p style="font-size: 18px; color: #555;">Feel free to reach out to me on any of the following platforms:</p>
+- ðŸŽ“ **Final year CSE** student with 3+ years of tutoring experience
+- ðŸ’» Building full-stack applications with **Spring Boot**, **React**, and **Node.js**
+- ðŸ§  Exploring **Machine Learning** and **AI-powered tools**
+- ðŸ“ˆ Daily problem solver on **LeetCode** and competitive programming platforms
+- ðŸŒ± Currently mastering **JWT Authentication**, **Docker**, and **System Design**
 
-  <!-- Social Media Icons -->
-  <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/mohammeddaniyalali" target="_blank">
-      <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" width="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://github.com/Mohammeddaniyal" target="_blank">
-      <img src="https://img.icons8.com/ios/452/github.png" alt="GitHub" width="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://leetcode.com/u/mohammeddaniyalali/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" style="margin: 10px;"/>
-    </a>
-    <a href="mailto:mohammeddaniyal453@gmail.com">
-      <img src="https://img.icons8.com/ios/452/mail.png" alt="Email" width="50" style="margin: 10px;"/>
-    </a>
-  </div>
+---
 
-  <!-- Contact Details -->
-  <div style="margin-top: 30px; font-family: 'Arial', sans-serif;">
-    <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #555;">
-      <li>Email: <a href="mailto:mohammeddaniyal453@gmail.com" style="text-decoration: none; color: #333;">mohammeddaniyal453@gmail.com</a></li>
-    </ul>
-  </div>
-</div>
+## ðŸ› ï¸ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## ðŸ“Š GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammeddaniyal&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammeddaniyal&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammeddaniyal&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammeddaniyal&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## ðŸ† Featured Projects
+
+### ðŸŒŸ [AI Code Explainer](https://github.com/Mohammeddaniyal/ai-code-explainer)
+> **Spring Boot + React** | AI-powered tool that breaks down code snippets for beginners
+- ðŸ”¹ JWT-based authentication system
+- ðŸ”¹ GPT integration for intelligent code analysis
+- ðŸ”¹ Responsive React frontend with Material-UI
+
+### ðŸ“š [Digital Library System](https://github.com/Mohammeddaniyal/digital-library)
+> **Full-Stack Web App** | Complete book management system
+- ðŸ”¹ RESTful API with Spring Boot backend
+- ðŸ”¹ MySQL database with JPA/Hibernate
+- ðŸ”¹ Payment integration with Stripe API
+
+### ðŸŽ® [Portfolio Website](https://mohammeddaniyal.dev)
+> **React + TailwindCSS** | Personal portfolio with interactive elements
+- ðŸ”¹ Responsive design with dark/light mode toggle
+- ðŸ”¹ Contact form with EmailJS integration
+- ðŸ”¹ Deployed on Netlify with CI/CD pipeline
+
+---
+
+## ðŸŽ¯ Current Goals
+
+- [ ] **Algorithm Mastery**: Achieve **top 20% global rank** on LeetCode
+- [ ] **Open Source**: Contribute to **5+ major open source projects**
+- [ ] **AI Development**: Build and deploy **AI-powered developer tools**
+- [ ] **System Design**: Master **scalable architecture patterns**
+- [ ] **Community**: Mentor **100+ students** in programming fundamentals
+
+---
+
+## ðŸ“ˆ Coding Activity
+
+<p align="center">
+  <img src="https://wakatime.com/share/@Mohammeddaniyal/b8b8ba5d-0be5-4667-88fb-4e8fec30e4d1.svg" width="400" alt="WakaTime Stats" />
+</p>
+
+---
+
+## ðŸ¤ Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammeddaniyalali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Mohammeddaniyal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/mohammeddaniyalali/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:mohammeddaniyal453@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://mohammeddaniyal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## ðŸ’­ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## ðŸŽµ Currently Vibing To
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3kljay2w5uowmpsnv7dp4qgpi&count=1" alt="Spotify" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammeddaniyal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mohammeddaniyal?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+---
+
+â­ï¸ **From [Mohammed Daniyal Ali](https://github.com/Mohammeddaniyal)** - *Building the future, one commit at a time* â­ï¸
